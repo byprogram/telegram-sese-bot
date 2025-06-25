@@ -29,9 +29,8 @@
 ## 📦 快速开始
 
 ```bash
-git clone https://github.com/yourname/telegram-xxx-bot.git
-cd telegram-xxx-bot
+git clone https://github.com/byprogram/telegram-sese-bot.git
+cd telegram-sese-bot
 npm install
-cp .env.example .env
-# 修改.env 中的 BOT_TOKEN 和其他配置项
+# 修改conf 中的 BOT_TOKEN 和其他配置项
 npm start
