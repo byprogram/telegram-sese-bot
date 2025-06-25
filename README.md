@@ -32,5 +32,6 @@
 git clone https://github.com/byprogram/telegram-sese-bot.git
 cd telegram-sese-bot
 npm install
-# 修改conf 中的 BOT_TOKEN 和其他配置项
+# 导入数据库'sese.sql' 修改conf数据表里的配置项
+# 修改config/conf.js 中的 数据库 和其他配置项
 npm start
